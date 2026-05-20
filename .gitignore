@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ───────────────────────────────────────────────
+# DataGovKG-specific exclusions
+# ───────────────────────────────────────────────
+
+# Fuseki runtime data (rebuilt from ontology sources via scripts/load_fuseki.py)
+fuseki-data/
+
+# Environment variables (contain API keys)
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OneDrive temp files
+~$*
+*.tmp
