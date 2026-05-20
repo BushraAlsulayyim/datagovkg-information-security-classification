@@ -144,7 +144,4 @@
 
 # 
 
-# Bushra Al Sulayyim - PhD Candidate, University of Technology Sydney
-
-# Supervisor: Dr. Madhushi Bandara
-
+# Bushra Al Sulayyim, University of Technology Sydney, bushra.alsulayyim@uts.edu.au
